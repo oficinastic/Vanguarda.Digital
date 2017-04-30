@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vanguarda Digital
 
 You can use the [editor on GitHub](https://github.com/oficinastic/vanguardadigital/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
