@@ -1,8 +1,4 @@
-## Vanguarda Digital ##
-
-O Que há de Errado com a Microsoft?
-
-O Que há de Errado com a Microsoft?
+## O Que há de Errado com a Microsoft? ##
 
 Antes de começar, deixe-me assegurá-lo: este não é um discurso anti-microsoft contra seus abusos de monopólio, patentes de software, comportamento anti-competitivo, ou qualquer outra coisa.
 
