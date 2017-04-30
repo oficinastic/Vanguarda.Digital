@@ -74,5 +74,5 @@ Sem Windows?
 
 Talvez. Veremos!
 
-Tradução livre do texto de Dominic Humphries publicado originalmente com o título What's wrong with Microsoft?
-Contato: https://www.facebook.com/llinkedublog
+Tradução livre do texto de Dominic Humphrie]s publicado originalmente com o título What's wrong with Microsoft?
+Contato: [https://www.facebook.com/llinkedublog]
